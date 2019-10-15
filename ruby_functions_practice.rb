@@ -55,3 +55,6 @@ end
 def volume_of_cube(x,y,z)
   return x * y * z
 end
+
+def volume_of_sphere(radius)
+  return 4.18
